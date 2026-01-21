@@ -5,8 +5,7 @@ Titanic Dataset – Data Cleaning & Exploratory Data Analysis (Task 2)
 This repository contains a complete data cleaning and exploratory data analysis (EDA) workflow on the Titanic dataset. The primary objective of this project is to clean and prepare the raw dataset, explore relationships between features, and identify meaningful patterns and trends that contribute to understanding survival outcomes.
 
 📂 Dataset Source
-The dataset used for this analysis is from the Prodigy InfoTech Task 2 repository:https://github.com/Prodigy-InfoTech/
-data-science-datasets/tree/main/Task%202
+The dataset used for this analysis is from the Prodigy InfoTech Task 2 repository: https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%202
 
 📊 Insights & Key Findings
 -Survival rates varied significantly by gender, with female passengers showing higher survival.
