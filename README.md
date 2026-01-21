@@ -12,8 +12,11 @@ The dataset used for this analysis is from the Prodigy InfoTech Task 2 repositor
 📊 Insights & Key Findings
 
 -Survival rates varied significantly by gender, with female passengers showing higher survival.
+
 -Passengers in higher classes (Pclass 1) had better survival outcomes.
+
 -Age influenced survival probability, with certain age groups having higher survival rates.
+
 -Visualizations helped reveal important interactions between variables.
 
 🧾 Conclusion
