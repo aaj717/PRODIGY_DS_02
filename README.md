@@ -1,7 +1,7 @@
 # PRODIGY_DS_02
 Titanic Dataset – Data Cleaning & Exploratory Data Analysis (Task 2)
 
-📌 Project Overview
+📌 Project Overview</br>
 This repository contains a complete data cleaning and exploratory data analysis (EDA) workflow on the Titanic dataset. The primary objective of this project is to clean and prepare the raw dataset, explore relationships between features, and identify meaningful patterns and trends that contribute to understanding survival outcomes.
 
 📂 Dataset Source
